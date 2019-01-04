@@ -1,4 +1,4 @@
-# This script produces plot 5 in the Linguistics paper, a plot that visualizes the Vneo values of five German word formation suffixes.
+# This script produces plot 7 in the Linguistics paper.
 
 # import necessary libraries
 import numpy as np

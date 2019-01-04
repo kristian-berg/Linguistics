@@ -1,4 +1,4 @@
-# This script produces plot 3 in the Linguistics paper, a plot that visualizes the changes in types and tokens in each decade.
+# This script produces plot 12 in the Linguistics paper.
 
 # import necessary libraries
 import pandas as pd
